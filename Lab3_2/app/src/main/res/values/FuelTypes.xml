@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FuelTypes">
+        <item>АИ 92 - 47.35р</item>
+        <item>АИ 95 - 51.41р</item>
+        <item>АИ 98 - 60.21р</item>
+        <item>ДТ - 54.49р</item>
+    </string-array>
+</resources>
+
